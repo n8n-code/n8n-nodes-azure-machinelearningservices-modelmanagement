@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-azure-machinelearningservices-modelmanagement",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "APIs manage Azure ML models, images, profiles, and services.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-azure-machinelearningservices-modelmanagement",
